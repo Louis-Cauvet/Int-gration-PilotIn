@@ -1,4 +1,4 @@
-# Int-gration-PilotIn
+# Intégration-PilotIn
 
 > Projet personnel issu d'un test technique
 
