@@ -9,7 +9,7 @@ Intégrer une page complète et gérer son responsive à partir d'une maquette F
 Projet réalisé intégralement en **HTML**, **CSS** et **Vanilla JS**.
 
 ### Prise en main du projet ⬇️
-Une fois le projet récupéré en local, vous avez juste à cliquer sur le fichier 'index.html' pour visualiser la page réalisée
+Une fois le projet récupéré en local, vous avez juste à cliquer sur le fichier 'homePage.html' pour visualiser la page réalisée
 
 ### Image du projet 📷
 ![Test d'intégration pour Pilot'in](https://github.com/Louis-Cauvet/Captures-des-projets/blob/main/Int%C3%A9gration%20Pilot'in/Capture.png)
