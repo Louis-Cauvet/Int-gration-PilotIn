@@ -11,5 +11,5 @@ Projet réalisé intégralement en **HTML**, **CSS** et **Vanilla JS**.
 ### Prise en main du projet ⬇️
 Une fois le projet récupéré en local, vous avez juste à cliquer sur le fichier 'index.html' pour visualiser la page réalisée
 
-### Une illustration vaut mieux que des mots 📷
+### Image du projet 📷
 ![Test d'intégration pour Pilot'in](https://github.com/Louis-Cauvet/Captures-des-projets/blob/main/Int%C3%A9gration%20Pilot'in/Capture.png)
